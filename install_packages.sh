@@ -16,5 +16,7 @@ sudo pip3 install ansible
 sudo apt install git -y
 # install hypervisor
 sudo apt install virt-manager
+# install network tools for ubuntu
+sudo apt install net-tools
 # autoremove unused packages
 sudo apt auto-remove -y
